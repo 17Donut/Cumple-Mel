@@ -55,7 +55,7 @@ const slides = [
   { img: "images/3.jpeg", text: "Me encanta esta foto" },
   { img: "images/4.jpeg", text: "Y esta" },
   { img: "images/5.jpeg", text: "Gracias por ser como eres" },
-  { img: "images/6.jpeg", text: "Literal es la primera foto que tengo nuestr0" },
+  { img: "images/6.jpeg", text: "Literal es la primera foto que tengo nuesto" },
   { img: "images/7.jpeg", text: "Escogí fotos de las más antiguas" },
   { img: "images/8.jpeg", text: "No tan antiguas pero se merecía estar❤️" },
   { img: "images/9.jpeg", text: "Buenos tiempos...en el cumple de Lore" },
