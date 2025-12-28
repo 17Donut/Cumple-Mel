@@ -6,7 +6,7 @@ const text = document.getElementById("slideText");
 const music = document.getElementById("bgMusic");
 
 const slides = [
-  { img: "", text: "Nuestro primer recuerdo juntos ❤️" },
+  { img: "images/1.jpeg", text: "Nuestro primer recuerdo juntos ❤️" },
   { img: "", text: "Cada momento contigo es especial" },
   { img: "", text: "Siempre sacándome una sonrisa" },
   { img: "", text: "Viajes, risas y locuras" },
